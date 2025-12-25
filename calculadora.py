@@ -1,3 +1,5 @@
+import math
+
 print("Funciones de suma ")
 print("Funciones de resta ")
 
